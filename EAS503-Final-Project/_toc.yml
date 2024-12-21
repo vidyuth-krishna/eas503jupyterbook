@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: resume
+  title: Resume  
+- file: video
+  title: Project Video
+- file: index
+  title: Code Summary 
